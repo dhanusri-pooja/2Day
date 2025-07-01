@@ -6,10 +6,10 @@ The task was to **design a webpage that embeds a YouTube video** using the `<ifr
 
 ## Task Objective:
 
-> Create a basic HTML file  
-> Use the `<iframe>` tag  
-> Embed a YouTube video of my choice  
-> Make the video playable on a live web page
+- Create a basic HTML file  
+- Use the `<iframe>` tag  
+- Embed a YouTube video of my choice  
+- Make the video playable on a live web page
 
 
 
