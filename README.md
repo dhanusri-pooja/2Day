@@ -15,7 +15,7 @@ The task was to **design a webpage that embeds a YouTube video** using the `<ifr
 
 ## Live Demo:
 
-[Click to View the Page] (https://dhanusri-pooja.github.io/day-2/)
+[Click to View the Page] (https://dhanusri-pooja.github.io/2Day/)
 
 
 
